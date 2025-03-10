@@ -1,5 +1,5 @@
 let numeroJaSorteado = [];
-let numerador = 10;
+let numerador = 100;
 let numeraAleatório = gerarNumero();
 console.log('O numero secreto é: ' + numeraAleatório);
 let tentativas = 1;
